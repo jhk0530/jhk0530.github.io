@@ -1,1 +1,3 @@
+name : name of my page
 theme: jekyll-theme-minimal
+markdown: kramdown
