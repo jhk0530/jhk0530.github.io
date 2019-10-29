@@ -1,7 +1,8 @@
----
-layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
----
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+---
+title: "minimal mistakes 테마를 이용해 github.io 블로그 구축하기"
+categories: 
+  - blogging
+last_modified_at: 2018-07-01T13:00:00+09:00
+toc: true
+---
