@@ -1,0 +1,20 @@
+name: Jekyll Themes
+url: "http://jhk0530.github.io"
+baseurl: ""
+
+description: Insert tagline here
+
+permalink: /themes/:title/
+
+plugins: [jekyll-paginate]
+
+highlighter: pygments
+paginate: 20
+
+markdown: rdiscount
+rdiscount:
+    extensions: ['smart']
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+
+remote_theme : mattvh/jekyllthemes
