@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-categories: jekyll update
+categories: 
+  - blogging
 date: 2019-10-28
 ---
 
