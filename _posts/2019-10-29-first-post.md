@@ -1,26 +1,29 @@
 ---
 
-title: "Welcome to Jekyll!"
-category: blogging
-date: 2019-10-28
+title: "My First post"
+category: Test
+date: 2019-10-30
 
 ---
 
+포스트 작성 테스트
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+작성시 사용한 YAML 헤더파일, 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+```
+---
+// must have empty line //
+title: 'Title'// no space
+category: category // no space
+date: YYYY-MM-DD // no space
+// here empty line too. //
+---
+```
 
-Jekyll also offers powerful support for code snippets:
+앞으로 할 일 : <br>
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+* [minimal-mistake] 에서 나머지 구조들 건져오기
+* 애옹이들 사진 올리기
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[minimal-mistake]: https://mmistakes.github.io/minimal-mistakes/docs/structure/ 
