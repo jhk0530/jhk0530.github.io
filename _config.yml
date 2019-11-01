@@ -114,13 +114,7 @@ author:
   location         : "Korea"
   email            : "hwanistic@gmail.com"
   github           : "jhk0530"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com        
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jhk0530/"    
+  
 # Site Footer
 footer:
   links:
