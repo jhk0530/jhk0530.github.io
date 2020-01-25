@@ -5,7 +5,7 @@ date: 2020-01-26
 
 ---
 
-<img src='https://user-images.githubusercontent.com/6457691/73124809-04ddeb00-3fe3-11ea-98dd-66d645be7bd0.jpg' width = 500 ></img>
+<img src='https://user-images.githubusercontent.com/6457691/73124809-04ddeb00-3fe3-11ea-98dd-66d645be7bd0.jpg' width = '500' ></img>
 
 저번에 동생 1호기가 책을 쓰려고 준비중이라는 얘기를 들었다. <br>
 
