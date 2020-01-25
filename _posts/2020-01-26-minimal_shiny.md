@@ -5,7 +5,7 @@ date: 2020-01-26
 
 ---
 
-<img src='https://user-images.githubusercontent.com/6457691/73124809-04ddeb00-3fe3-11ea-98dd-66d645be7bd0.jpg' width = '500' ></img>
+<img src='https://user-images.githubusercontent.com/6457691/73124809-04ddeb00-3fe3-11ea-98dd-66d645be7bd0.jpg' width = '500'>
 
 저번에 동생 1호기가 책을 쓰려고 준비중이라는 얘기를 들었다. <br>
 
@@ -35,7 +35,7 @@ date: 2020-01-26
 
 아무튼 책에서 읽었던 `지금` 해야 한다라는 내용을 기억하며 해보기로 했다. <br>
 
-<img width = 300 src='https://user-images.githubusercontent.com/6457691/73124562-30130b00-3fe0-11ea-90f8-0f4d11bf9372.gif'></img>
+<img width = '300' src='https://user-images.githubusercontent.com/6457691/73124562-30130b00-3fe0-11ea-90f8-0f4d11bf9372.gif' >
 
 ----
 
@@ -47,7 +47,7 @@ date: 2020-01-26
 
 (물론 아직 `testing`, `reticulate`, `postgreSQL`등 미정복 주제가 남았다.)
 
-<img src='https://user-images.githubusercontent.com/6457691/73124741-14106900-3fe2-11ea-83ff-f8ea989b3e71.jpg' width = 600></img>
+<img src='https://user-images.githubusercontent.com/6457691/73124741-14106900-3fe2-11ea-83ff-f8ea989b3e71.jpg' width = '600'>
 
 기술적인 발전 외에 하나를 더 꼽자면,<br>
 
@@ -63,7 +63,7 @@ date: 2020-01-26
 
 그 파도를 잠시 비껴내면, 돌아오는 대답은 `내가 하고 싶었으니까`, 그리고 `재밌으니까` 였다.
 
-<img width = 500 src='https://user-images.githubusercontent.com/6457691/73124994-3bb50080-3fe5-11ea-8029-0f2602f2766b.jpg'></img>
+<img width = '500' src='https://user-images.githubusercontent.com/6457691/73124994-3bb50080-3fe5-11ea-8029-0f2602f2766b.jpg'></img>
 
 내가 귀찮음과 변덕으로 (과거의) 내가 내린 결정을 지지 하지 않는다면, <br> 
 
