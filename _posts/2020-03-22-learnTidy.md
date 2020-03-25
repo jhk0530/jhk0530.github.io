@@ -3,7 +3,7 @@ title : learnTidy
 date : 2020-03-22
 ---
 
-<img src = 'https://user-images.githubusercontent.com/6457691/77248500-3094ee80-6c7d-11ea-9c32-0aa5015d7547.png' width = 300 align = 'center'></img>
+<img src = 'https://user-images.githubusercontent.com/6457691/77248500-3094ee80-6c7d-11ea-9c32-0aa5015d7547.png' width = '300' align = 'center'></img>
 
 지지난주, [Shiny Contest 2020](https://community.rstudio.com/t/shiny-contest-2020-is-here/51002)에
 한 8시간 정도 들이부어서 만든[shinyAssemble](https://github.com/jhk0530/shinyassemble)을 제출할 당시만 해도, 꽤나 만족스러웠었다.
