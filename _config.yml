@@ -3,24 +3,24 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+# theme                    : minimal-mistakes-jekyll
 remote_theme             : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "mint" 
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "jhk0530 Github Page"
-title_separator          : "-"
-subtitle                 : "애옹" # site tagline that appears below site title in masthead
-name                     : "Jh Kim"
-description              : "description"
-url                      : "https://jhk0530.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : "jhk0530/jhk0530.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/cat--v2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-words_per_minute         : 200
+title_separator          : "|"
+subtitle                 : "애옹"
+name                     : "JH Kim"
+description              : "Description"
+url                      : "https://jhk0530.github.io"
+baseurl                  : ""
+repository               : "jhk0530/jhk0530.github.io"
+teaser                   : ""
+logo                     : "/assets/images/cat--v2.png"
+masthead_title           : ""
+words_per_minute         : 150
 comments:
   provider               : false
   utterances:
@@ -95,7 +95,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:    
+      url: "https://github.com/jhk0530
 
 # Reading Files
 include:
@@ -169,6 +169,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  
 
 # mimic GitHub Pages with --safe
 whitelist:
