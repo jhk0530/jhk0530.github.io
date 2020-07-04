@@ -22,7 +22,9 @@ logo                     : "/assets/images/cat--v2.png"
 masthead_title           : ""
 words_per_minute         : 150
 comments:
-  provider               : false
+  provider               : disqus
+  disqus:
+    shortname            : jhk0530
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
