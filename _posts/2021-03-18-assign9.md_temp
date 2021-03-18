@@ -16,5 +16,52 @@ Waterfall & Agile
   
 - 잘 일하고 있다는 것을 판단한 기준은 무엇인가요?
 
+이번에는 쿠키런 원툴이라 불리며 놀림 받았던[Devsisters](https://www.devsisters.com/) 에 대해서 이야기 해보고자 한다.
+
+사실 devsisters의 모든 팀 혹은 모든 product를 대상으로 하는 것은 아니고 **쿠킹덤** 팀에 대해서 이야기 할거다.
+
+이 product를 선택한 이유는... 내가 요즘 플레이 하고 있기 때문이다.
+
+일단 쿠킹덤에 대해서 간단히 소개하면. 쿠키런 IP를 기반으로 수집형, 소셜 RPG 게임을 만들어 둔 것이다.
+
+엥 수집형, 소셜 RPG는 뭔가요? 라고 질문이 생긴다면 [짱무위키](https://namu.wiki/w/%EC%BF%A0%ED%82%A4%EB%9F%B0:%20%ED%82%B9%EB%8D%A4?from=%EC%BF%A0%ED%82%B9%EB%8D%A4)로 가서 보길 바란다.
+
+이들이 제품을 런칭하게 된 정확한 히스토리는 내부인이 아니라서 잘은 모르지만 대략 다음과 같다.
+
+- 아마 이런 게임 만들거다 라고 이미지 혹은 동영상 형태로 Pretotype을 만들었을꺼다. (나는 이 단계에서는 일하느라 못봤던것 같다)
+- 그리고 사전예약이라는 형태로 약 2달 쯤전 미리 수요조사 겸 마케팅을 하고
+
+<img src='https://user-images.githubusercontent.com/6457691/111579290-1989cd80-87f9-11eb-829e-be03590565f8.png' width = '500'>
+
+- 초기 버전을 릴리즈한뒤
+
+<img src='https://user-images.githubusercontent.com/6457691/111579482-6ec5df00-87f9-11eb-943d-523e577e4251.png' width = '500'>
+
+- 넘쳐나는 버그들을 고치고
+
+<img src='https://user-images.githubusercontent.com/6457691/111579607-a46ac800-87f9-11eb-91d3-0a76ccf4c2e5.png' width = '500'>
+
+- 동시에 새로운 feature들도 추가 했다. (꼭 특정한 기능은 아니더라도 그냥 feature라고 표현하겠다)
+
+<img src='https://user-images.githubusercontent.com/6457691/111579687-c8c6a480-87f9-11eb-9b13-068ba4d2e0b7.png' width = '500'>
+
+- 물론 아직 구상했던 모든 기능을 추가 하지 못했고, 고쳐야할 버그들도 넘친다.
+
+이들이 제품을 발전 시키는 과정은 다음과 같다고 생각한다.
+
+<img src='https://user-images.githubusercontent.com/6457691/111580219-86ea2e00-87fa-11eb-955a-3f3a3fc7ead7.png' width = '500'>
+
+중요한 포인트로는 MVP에 해당하는 기능을 먼저 만들고, 점점 추가 기능을 더해가면서 동시에 네이버 카페와 같은 고객 커뮤니티들로 부터 항상 피드백을 받아 이를 적극적으로 사용한다는 점이다.
+
+이는 대략 1-2주 마다 이뤄지는 업데이트를 통해 이뤄진다.
+
+이들이 잘 하고 있다고 생각한 기준은... 사용자 수이며 이 정도면 오픈한지 1달반 정도된 product치고는 많은 것 같다.
+
+<img src='https://user-images.githubusercontent.com/6457691/111580616-31625100-87fb-11eb-9be6-4f3d53900f2e.png' width = '500'>
+
+<img src='https://user-images.githubusercontent.com/6457691/111580715-58b91e00-87fb-11eb-8392-64ba954dcdf2.png' width ='500'>
+
+(국내 갤럭시 기준 25만, 해외 이용자수 미포함 ㅎㅎ)
+
 # 2. 애자일과 워터폴의 차이는 무엇인가요? 다양한 관점에서 이야기 해주세요.
 
