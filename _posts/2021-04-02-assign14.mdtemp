@@ -1,0 +1,18 @@
+---
+
+title : 코드스테이츠 PMB 5기 W7L1-2
+date : 2021-04-01
+
+---
+
+Open API
+
+# 오픈 API 로 기능 1가지 기획하기
+
+이번에 사용할 api는 [노선정보조회서비스](https://www.data.go.kr/data/15000193/openapi.do)이다.
+
+
+
+번외
+
+- 처음에 카카오 pose api로 수어 번역하는 서비스를 생각했으나... 이미 [연구 중](https://ynebula.tistory.com/12)이라고 한다
